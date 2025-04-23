@@ -9,7 +9,7 @@ _start:
     mov ecx, [qtd]
 
 gera_impares:
-    ; Aqui você poderia imprimir [atual]
+    ; Aqui você da pra imprimir [atual]
 
     add dword [atual], 2
     loop gera_impares
