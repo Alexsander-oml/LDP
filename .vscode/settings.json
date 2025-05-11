@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Help.C": "cpp",
+        "stdio.h": "c"
+    }
+}
